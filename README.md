@@ -1,0 +1,2 @@
+# ofxEase
+Easing functions
